@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+    margin-top: 50px;
+    background-color: lightskyblue;
+    width: 50%;
+    margin: 50px auto;
+    padding: 30px;
+}
+
+body{
+    background: linear-gradient(#bd65f0, #f065d1);
+}
+textarea{
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 15px;
+}
